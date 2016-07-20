@@ -1167,26 +1167,7 @@ footer {
     width: 100%;
   }
 }
-@media (max-width: 600px) {
-  .thumbnails-1 .thumbnail-1 img {
-    width: 100%;
-  }
-  .thumbnails-1 {
-    margin-left: 0px;
-  }
-  .thumbnails-1 li {
-    float: none;
-    width: 100%;
-    margin-left: 0px;
-  }
-  .img-indent {
-    float: none;
-    margin: 0 0 16px 0;
-  }
-  .img-indent img {
-    width: 100%;
-  }
-}
+
 @media (max-width: 480px) {
   .list-social {
     float: none !important;
