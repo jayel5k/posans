@@ -612,6 +612,14 @@ p1 {
 .mail-2 a:hover {
   text-decoration: underline;
 }
+
+#demo{
+  font-size: 20px;
+  padding-top: 30px;
+}
+
+
+
 /***** contact form *****/
 #contact-form {
   position: relative;
